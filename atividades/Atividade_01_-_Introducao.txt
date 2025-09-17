@@ -1,0 +1,1 @@
+Enunciado: Faça 4 variáveis chamadas A,B,C e D. A deve receber 25, B deve receber A*3, C deve receber 10 e D deve receber A/C. Imprima as todas as variáveis. Copie o código no site, cole no visual code e salve como 'atividade01_nome_sobrenome.java'. Suba o arquivo para o repositório manualmente para o GitHub.
